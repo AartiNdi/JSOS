@@ -1,0 +1,9 @@
+Kernel: Linux
+Emulator language: JavaScript
+Key things to emulate first:
+1. Serial ports
+2. CPU
+3. Sending the captured keypresses
+4. Physical RAM( using arrays )
+
+I am beginning to understand emulators better but nothing useful has come out as of now.
